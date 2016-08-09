@@ -52,3 +52,6 @@ gem 'devise', '~> 4.2'
 gem 'paperclip', '~> 5.0'
 gem 'acts_as_votable', '~> 0.10.0'
 
+#admin gem and issue resolving pack
+gem 'remotipart', github: 'mshibuya/remotipart'
+gem 'rails_admin', '>= 1.0.0.rc'
