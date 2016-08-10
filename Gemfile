@@ -60,3 +60,4 @@ gem 'acts_as_votable', '~> 0.10.0'
 #admin gem and issue resolving pack
 gem 'remotipart', github: 'mshibuya/remotipart'
 gem 'rails_admin', '>= 1.0.0.rc'
+gem 'aws-sdk', '~> 2.5', '>= 2.5.2'
